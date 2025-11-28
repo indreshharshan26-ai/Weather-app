@@ -15,7 +15,8 @@ A modern, responsive Weather Forecast application built with **React**, **Tailwi
 - ⚡ **Smooth animations** – Animated loading, icons, and cards
 
 ---
-
+#live Demo
+https://weather-app-delta-woad-28.vercel.app/
 
 
 ## **Technologies Used**
